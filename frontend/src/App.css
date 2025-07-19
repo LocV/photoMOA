@@ -1,0 +1,11 @@
+.App {
+  /* Main app container */
+}
+
+.App-logo {
+  height: 2rem; /* Fixed reasonable logo size */
+  width: auto;
+  pointer-events: none;
+}
+
+/* Remove default React styling that interferes with our design */

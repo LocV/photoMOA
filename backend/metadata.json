@@ -1,0 +1,793 @@
+[
+  {
+    "id": "20250715_204348",
+    "filename": "target_20250715_204348_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250715_204348_testTarget2.jpg",
+    "upload_time": "2025-07-15T20:43:48.305240",
+    "shot_count": 0,
+    "moa_value": null,
+    "shots": []
+  },
+  {
+    "id": "20250715_204646",
+    "filename": "target_20250715_204646_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250715_204646_testTarget2.jpg",
+    "upload_time": "2025-07-15T20:46:46.603194",
+    "shot_count": 3,
+    "moa_value": 1.22,
+    "shots": [
+      [
+        277,
+        358
+      ],
+      [
+        168,
+        367
+      ],
+      [
+        165,
+        420
+      ]
+    ]
+  },
+  {
+    "id": "20250715_204655",
+    "filename": "target_20250715_204655_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250715_204655_testTarget1.jpg",
+    "upload_time": "2025-07-15T20:46:55.231100",
+    "shot_count": 6,
+    "moa_value": 5.19,
+    "shots": [
+      [
+        250,
+        55
+      ],
+      [
+        107,
+        54
+      ],
+      [
+        366,
+        55
+      ],
+      [
+        184,
+        460
+      ],
+      [
+        110,
+        534
+      ],
+      [
+        136,
+        385
+      ]
+    ]
+  },
+  {
+    "id": "20250715_204703",
+    "filename": "target_20250715_204703_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250715_204703_testTarget2.jpg",
+    "upload_time": "2025-07-15T20:47:04.063065",
+    "shot_count": 3,
+    "moa_value": 1.22,
+    "shots": [
+      [
+        277,
+        358
+      ],
+      [
+        168,
+        367
+      ],
+      [
+        165,
+        420
+      ]
+    ]
+  },
+  {
+    "id": "20250715_205243",
+    "filename": "target_20250715_205243_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250715_205243_testTarget1.jpg",
+    "upload_time": "2025-07-15T20:52:43.935479",
+    "shot_count": 6,
+    "moa_value": 5.19,
+    "shots": [
+      [
+        250,
+        55
+      ],
+      [
+        107,
+        54
+      ],
+      [
+        366,
+        55
+      ],
+      [
+        184,
+        460
+      ],
+      [
+        110,
+        534
+      ],
+      [
+        136,
+        385
+      ]
+    ]
+  },
+  {
+    "id": "20250715_205306",
+    "filename": "target_20250715_205306_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250715_205306_testTarget2.jpg",
+    "upload_time": "2025-07-15T20:53:06.841305",
+    "shot_count": 3,
+    "moa_value": 1.22,
+    "shots": [
+      [
+        277,
+        358
+      ],
+      [
+        168,
+        367
+      ],
+      [
+        165,
+        420
+      ]
+    ]
+  },
+  {
+    "id": "20250715_205311",
+    "filename": "target_20250715_205311_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250715_205311_testTarget1.jpg",
+    "upload_time": "2025-07-15T20:53:11.647968",
+    "shot_count": 6,
+    "moa_value": 5.19,
+    "shots": [
+      [
+        250,
+        55
+      ],
+      [
+        107,
+        54
+      ],
+      [
+        366,
+        55
+      ],
+      [
+        184,
+        460
+      ],
+      [
+        110,
+        534
+      ],
+      [
+        136,
+        385
+      ]
+    ]
+  },
+  {
+    "id": "20250715_205355",
+    "filename": "target_20250715_205355_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250715_205355_testTarget1.jpg",
+    "upload_time": "2025-07-15T20:53:55.923403",
+    "shot_count": 6,
+    "moa_value": 5.19,
+    "shots": [
+      [
+        250,
+        55
+      ],
+      [
+        107,
+        54
+      ],
+      [
+        366,
+        55
+      ],
+      [
+        184,
+        460
+      ],
+      [
+        110,
+        534
+      ],
+      [
+        136,
+        385
+      ]
+    ]
+  },
+  {
+    "id": "20250715_205556",
+    "filename": "target_20250715_205556_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250715_205556_testTarget1.jpg",
+    "upload_time": "2025-07-15T20:55:56.278505",
+    "shot_count": 3,
+    "moa_value": 1.46,
+    "shots": [
+      [
+        184,
+        461
+      ],
+      [
+        137,
+        383
+      ],
+      [
+        110,
+        534
+      ]
+    ]
+  },
+  {
+    "id": "20250715_205655",
+    "filename": "target_20250715_205655_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250715_205655_testTarget2.jpg",
+    "upload_time": "2025-07-15T20:56:55.343322",
+    "shot_count": 3,
+    "moa_value": 1.22,
+    "shots": [
+      [
+        277,
+        358
+      ],
+      [
+        165,
+        420
+      ],
+      [
+        168,
+        367
+      ]
+    ]
+  },
+  {
+    "id": "20250715_205735",
+    "filename": "target_20250715_205735_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250715_205735_testTarget2.jpg",
+    "upload_time": "2025-07-15T20:57:35.465604",
+    "shot_count": 3,
+    "moa_value": 1.22,
+    "shots": [
+      [
+        277,
+        358
+      ],
+      [
+        165,
+        420
+      ],
+      [
+        168,
+        367
+      ]
+    ]
+  },
+  {
+    "id": "20250715_205739",
+    "filename": "target_20250715_205739_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250715_205739_testTarget1.jpg",
+    "upload_time": "2025-07-15T20:57:40.053639",
+    "shot_count": 3,
+    "moa_value": 1.46,
+    "shots": [
+      [
+        184,
+        461
+      ],
+      [
+        137,
+        383
+      ],
+      [
+        110,
+        534
+      ]
+    ]
+  },
+  {
+    "id": "20250719_095940",
+    "filename": "target_20250719_095940_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250719_095940_testTarget1.jpg",
+    "upload_time": "2025-07-19T09:59:40.592850",
+    "shot_count": 4,
+    "moa_value": 3.19,
+    "shots": [
+      [
+        184,
+        461,
+        10
+      ],
+      [
+        137,
+        383,
+        10
+      ],
+      [
+        110,
+        534,
+        10
+      ],
+      [
+        100,
+        200,
+        10
+      ]
+    ],
+    "manual_shots": [
+      [
+        100,
+        200,
+        10
+      ]
+    ],
+    "last_updated": "2025-07-19T10:03:42.129349"
+  },
+  {
+    "id": "20250719_100143",
+    "filename": "target_20250719_100143_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250719_100143_testTarget1.jpg",
+    "upload_time": "2025-07-19T10:01:43.344576",
+    "shot_count": 3,
+    "moa_value": 1.46,
+    "shots": [
+      [
+        184,
+        461
+      ],
+      [
+        137,
+        383
+      ],
+      [
+        110,
+        534
+      ]
+    ]
+  },
+  {
+    "id": "20250719_100709",
+    "filename": "target_20250719_100709_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250719_100709_testTarget1.jpg",
+    "upload_time": "2025-07-19T10:07:09.803313",
+    "shot_count": 6,
+    "moa_value": 3.55,
+    "shots": [
+      [
+        184.0,
+        461.0,
+        10.0
+      ],
+      [
+        137.0,
+        383.0,
+        10.0
+      ],
+      [
+        110.0,
+        534.0,
+        10.0
+      ],
+      [
+        93.8901098901099,
+        472.61538461538464,
+        10.0
+      ],
+      [
+        104.43956043956044,
+        510.5934065934066,
+        10.0
+      ],
+      [
+        465.2307692307692,
+        469.4505494505495,
+        10.0
+      ]
+    ],
+    "manual_shots": [
+      [
+        465.2307692307692,
+        469.4505494505495,
+        10
+      ]
+    ],
+    "last_updated": "2025-07-19T10:07:24.615461"
+  },
+  {
+    "id": "20250719_100835",
+    "filename": "target_20250719_100835_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250719_100835_testTarget2.jpg",
+    "upload_time": "2025-07-19T10:08:35.315610",
+    "shot_count": 5,
+    "moa_value": 2.12,
+    "shots": [
+      [
+        277.0,
+        358.0,
+        10.0
+      ],
+      [
+        165.0,
+        420.0,
+        10.0
+      ],
+      [
+        168.0,
+        367.0,
+        10.0
+      ],
+      [
+        122.63736263736264,
+        281.86813186813185,
+        10.0
+      ],
+      [
+        58.35164835164835,
+        396.5934065934066,
+        10.0
+      ]
+    ],
+    "manual_shots": [
+      [
+        122.63736263736264,
+        281.86813186813185,
+        10
+      ],
+      [
+        58.35164835164835,
+        396.5934065934066,
+        10
+      ]
+    ],
+    "last_updated": "2025-07-19T10:08:55.587242"
+  },
+  {
+    "id": "20250719_101415",
+    "filename": "target_20250719_101415_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250719_101415_testTarget2.jpg",
+    "upload_time": "2025-07-19T10:14:15.202783",
+    "shot_count": 5,
+    "moa_value": 2.11,
+    "shots": [
+      [
+        277.0,
+        358.0,
+        10.0
+      ],
+      [
+        165.0,
+        420.0,
+        10.0
+      ],
+      [
+        168.0,
+        367.0,
+        10.0
+      ],
+      [
+        59.34065934065934,
+        396.5934065934066,
+        10.0
+      ],
+      [
+        123.62637362637363,
+        281.86813186813185,
+        10.0
+      ]
+    ],
+    "manual_shots": [
+      [
+        59.34065934065934,
+        396.5934065934066,
+        10
+      ],
+      [
+        123.62637362637363,
+        281.86813186813185,
+        10
+      ]
+    ],
+    "last_updated": "2025-07-19T10:14:24.748100"
+  },
+  {
+    "id": "20250719_101814",
+    "filename": "target_20250719_101814_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250719_101814_testTarget1.jpg",
+    "upload_time": "2025-07-19T10:18:14.509942",
+    "shot_count": 5,
+    "moa_value": 1.46,
+    "shots": [
+      [
+        184.0,
+        461.0,
+        10.0
+      ],
+      [
+        137.0,
+        383.0,
+        10.0
+      ],
+      [
+        110.0,
+        534.0,
+        10.0
+      ],
+      [
+        94.94505494505495,
+        471.5604395604396,
+        10.0
+      ],
+      [
+        102.32967032967034,
+        509.53846153846155,
+        10.0
+      ]
+    ],
+    "manual_shots": [
+      [
+        94.94505494505495,
+        471.5604395604396,
+        10
+      ],
+      [
+        102.32967032967034,
+        509.53846153846155,
+        10
+      ]
+    ],
+    "last_updated": "2025-07-19T10:18:23.689506"
+  },
+  {
+    "id": "20250719_103540",
+    "filename": "target_20250719_103540_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250719_103540_testTarget1.jpg",
+    "upload_time": "2025-07-19T10:35:40.794682",
+    "shot_count": 3,
+    "moa_value": 1.46,
+    "shots": [
+      [
+        184,
+        461
+      ],
+      [
+        137,
+        383
+      ],
+      [
+        110,
+        534
+      ]
+    ]
+  },
+  {
+    "id": "20250719_104136",
+    "filename": "target_20250719_104136_testTarget1.jpg",
+    "annotated_filename": "annotated_target_20250719_104136_testTarget1.jpg",
+    "upload_time": "2025-07-19T10:41:37.016842",
+    "shot_count": 5,
+    "moa_value": 0.77,
+    "shots": [
+      [
+        184.0,
+        461.0,
+        10.0
+      ],
+      [
+        137.0,
+        383.0,
+        10.0
+      ],
+      [
+        110.0,
+        534.0,
+        10.0
+      ],
+      [
+        94.94505494505495,
+        469.4505494505495,
+        10.0
+      ],
+      [
+        101.27472527472528,
+        511.64835164835165,
+        10.0
+      ]
+    ],
+    "manual_shots": [
+      [
+        94.94505494505495,
+        469.4505494505495
+      ],
+      [
+        101.27472527472528,
+        511.64835164835165
+      ]
+    ],
+    "last_updated": "2025-07-19T10:41:46.163651",
+    "calibration": {
+      "point1": [
+        207.82417582417582,
+        373.978021978022
+      ],
+      "point2": [
+        350.24175824175825,
+        371.86813186813185
+      ],
+      "distance_inches": 0.75,
+      "pixels_per_inch": 189.9109471676762
+    }
+  },
+  {
+    "id": "20250719_104429",
+    "filename": "target_20250719_104429_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250719_104429_testTarget2.jpg",
+    "upload_time": "2025-07-19T10:44:30.079834",
+    "shot_count": 5,
+    "moa_value": 2.66,
+    "shots": [
+      [
+        277.0,
+        358.0,
+        10.0
+      ],
+      [
+        165.0,
+        420.0,
+        10.0
+      ],
+      [
+        168.0,
+        367.0,
+        10.0
+      ],
+      [
+        124.61538461538461,
+        283.84615384615387,
+        10.0
+      ],
+      [
+        60.329670329670336,
+        396.5934065934066,
+        10.0
+      ]
+    ],
+    "manual_shots": [
+      [
+        124.61538461538461,
+        283.84615384615387
+      ],
+      [
+        60.329670329670336,
+        396.5934065934066
+      ]
+    ],
+    "last_updated": "2025-07-19T10:44:38.844172",
+    "calibration": {
+      "point1": [
+        248.24175824175825,
+        360.989010989011
+      ],
+      "point2": [
+        307.5824175824176,
+        360.989010989011
+      ],
+      "distance_inches": 0.75,
+      "pixels_per_inch": 79.12087912087911
+    }
+  },
+  {
+    "id": "20250719_104649",
+    "filename": "target_20250719_104649_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250719_104649_testTarget2.jpg",
+    "upload_time": "2025-07-19T10:46:49.249131",
+    "shot_count": 3,
+    "moa_value": 1.22,
+    "shots": [
+      [
+        277,
+        358
+      ],
+      [
+        165,
+        420
+      ],
+      [
+        168,
+        367
+      ]
+    ]
+  },
+  {
+    "id": "20250719_104847",
+    "filename": "target_20250719_104847_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250719_104847_testTarget2.jpg",
+    "upload_time": "2025-07-19T10:48:47.919795",
+    "shot_count": 3,
+    "moa_value": 1.22,
+    "shots": [
+      [
+        277,
+        358
+      ],
+      [
+        165,
+        420
+      ],
+      [
+        168,
+        367
+      ]
+    ]
+  },
+  {
+    "id": "20250719_105218",
+    "filename": "target_20250719_105218_testTarget2.jpg",
+    "annotated_filename": "annotated_target_20250719_105218_testTarget2.jpg",
+    "upload_time": "2025-07-19T10:52:18.143032",
+    "shot_count": 5,
+    "moa_value": 2.81,
+    "shots": [
+      [
+        277.0,
+        358.0,
+        10.0
+      ],
+      [
+        165.0,
+        420.0,
+        10.0
+      ],
+      [
+        168.0,
+        367.0,
+        10.0
+      ],
+      [
+        124.61538461538461,
+        282.8571428571429,
+        10.0
+      ],
+      [
+        58.35164835164835,
+        395.6043956043956,
+        10.0
+      ]
+    ],
+    "manual_shots": [
+      [
+        124.61538461538461,
+        282.8571428571429
+      ],
+      [
+        58.35164835164835,
+        395.6043956043956
+      ]
+    ],
+    "last_updated": "2025-07-19T10:52:23.872037",
+    "calibration": {
+      "point1": [
+        249.23076923076923,
+        361.978021978022
+      ],
+      "point2": [
+        308.57142857142856,
+        359.010989010989
+      ],
+      "distance_inches": 0.7874015748031495,
+      "pixels_per_inch": 75.45678185576173
+    }
+  }
+]
