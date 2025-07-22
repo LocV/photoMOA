@@ -1,5 +1,6 @@
 import React from 'react';
 import { HistoryEntry } from '../types';
+import { config } from '../config';
 
 interface HistoryComponentProps {
   history: HistoryEntry[];
@@ -63,7 +64,7 @@ const HistoryComponent: React.FC<HistoryComponentProps> = ({ history, onHistoryU
                   onClick={async () => {
                     const confirmed = window.confirm('Are you sure you want to delete this target?');
                     if (confirmed) {
-                      await fetch(`http://localhost:5001/api/delete/${entry.id}`, { method: 'DELETE' });
+                      await fetch(`${config.apiBaseUrl}/delete/${entry.id}`, { method: 'DELETE' });
                       onHistoryUpdate();
                     }
                   }}
@@ -88,7 +89,7 @@ const HistoryComponent: React.FC<HistoryComponentProps> = ({ history, onHistoryU
             {/* Thumbnail */}
             <div className="mt-3">
               <img
-                src={`http://localhost:5001/api/image/${entry.annotated_filename}`}
+                src={`${config.apiBaseUrl}/image/${entry.annotated_filename}`}
                 alt="Target analysis"
                 className="w-full h-48 object-contain border border-gray-200 rounded bg-gray-50"
                 onError={(e) => {

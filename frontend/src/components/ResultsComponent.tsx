@@ -1,5 +1,6 @@
 import React, { useState, useRef, useCallback } from 'react';
 import { AnalysisResult } from '../types';
+import { config } from '../config';
 
 interface ResultsComponentProps {
   result: AnalysisResult;
@@ -102,7 +103,7 @@ const ResultsComponent: React.FC<ResultsComponentProps> = ({ result, onResultUpd
       : parseFloat(calibrationDistance);
 
     try {
-      const response = await fetch(`http://localhost:5001/api/calibrate/${result.id}`, {
+      const response = await fetch(`${config.apiBaseUrl}/calibrate/${result.id}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -140,7 +141,7 @@ const ResultsComponent: React.FC<ResultsComponentProps> = ({ result, onResultUpd
     if (!result || !result.id) return;
 
     try {
-      const response = await fetch(`http://localhost:5001/api/update-shots/${result.id}`, {
+      const response = await fetch(`${config.apiBaseUrl}/update-shots/${result.id}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

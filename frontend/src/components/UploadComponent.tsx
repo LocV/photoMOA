@@ -1,6 +1,7 @@
 import React, { useState, useCallback } from 'react';
 import { useDropzone } from 'react-dropzone';
 import { AnalysisResult } from '../types';
+import { config } from '../config';
 
 interface UploadComponentProps {
   onUploadComplete: (result: AnalysisResult) => void;
@@ -21,7 +22,7 @@ const UploadComponent: React.FC<UploadComponentProps> = ({ onUploadComplete }) =
       const formData = new FormData();
       formData.append('image', file);
 
-      const response = await fetch('http://localhost:5001/api/upload', {
+      const response = await fetch(`${config.apiBaseUrl}/upload`, {
         method: 'POST',
         body: formData,
       });

@@ -4,6 +4,7 @@ import UploadComponent from './components/UploadComponent';
 import ResultsComponent from './components/ResultsComponent';
 import HistoryComponent from './components/HistoryComponent';
 import { AnalysisResult, HistoryEntry } from './types';
+import { config } from './config';
 
 function App() {
   const [currentResult, setCurrentResult] = useState<AnalysisResult | null>(null);
@@ -12,7 +13,7 @@ function App() {
 
   const fetchHistory = async () => {
     try {
-      const response = await fetch('http://localhost:5001/api/history');
+      const response = await fetch(`${config.apiBaseUrl}/history`);
       if (response.ok) {
         const data = await response.json();
         setHistory(data);
